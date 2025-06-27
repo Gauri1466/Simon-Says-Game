@@ -1,0 +1,1 @@
+Simon Says is a fun and fast-paced memory game where players must repeat an ever-growing sequence of colors and sounds. The game lights up a series of buttons in a specific order, and your goal is to click the buttons in the same pattern. Each correct round adds a new step to the sequence, testing how long you can keep up!
